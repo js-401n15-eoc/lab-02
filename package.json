@@ -1,0 +1,23 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "Lab 02 for JS 401 Nights",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-401n15-eoc/lab-02.git"
+  },
+  "author": "Earl Jay Caoile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-401n15-eoc/lab-02/issues"
+  },
+  "homepage": "https://github.com/js-401n15-eoc/lab-02#readme"
+}

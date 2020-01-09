@@ -9,11 +9,11 @@
 * [GitHub Actions](https://github.com/js-401n15-eoc/lab-02/actions)
 
 #### Documentation
-* [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) (Global Objects)
+* [MDN docs (Classes)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ### Setup
 #### Tests
 * Testing command: `npm test` (from classes directory) or `cd classes && npm test` from root directory
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML Image](lab-02-UML.png "uml diagram")
